@@ -1,3 +1,3 @@
 # Git Basics
 
-Hello world, I love using Git!
+Hello world, I'm a real boy!
